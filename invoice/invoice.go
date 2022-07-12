@@ -18,7 +18,7 @@
 package invoice
 
 import (
-	"github.com/MikunoNaka/OpenBills/client"
+	"github.com/MikunoNaka/OpenBillsAPI/client"
 )
 
 /* you should be able to:

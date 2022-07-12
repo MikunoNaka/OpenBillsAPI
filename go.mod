@@ -1,3 +1,3 @@
-module github.com/MikunoNaka/OpenBills
+module github.com/MikunoNaka/OpenBillsAPI
 
 go 1.18

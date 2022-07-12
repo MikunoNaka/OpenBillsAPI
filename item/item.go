@@ -18,7 +18,7 @@
 package item
 
 import (
-	"github.com/MikunoNaka/OpenBills/brand"
+	"github.com/MikunoNaka/OpenBillsAPI/brand"
 )
 
 /* each invoice must contain at least one item
